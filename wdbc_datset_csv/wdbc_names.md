@@ -1,6 +1,6 @@
-1. Title: Wisconsin Diagnostic Breast Cancer (WDBC)
+# 1. Title: Wisconsin Diagnostic Breast Cancer (WDBC)
 
-2. Source Information
+## 2. Source Information
 
 a) Creators: 
 
@@ -20,7 +20,7 @@ b) Donor: Nick Street
 
 c) Date: November 1995
 
-3. Past Usage:
+## 3. Past Usage:
 
 first usage:
 
@@ -73,7 +73,7 @@ Results:
 		diagnosed 176 consecutive new patients as of November
 		1995. 
 
-4. Relevant information
+## 4. Relevant information
 
 	Features are computed from a digitized image of a fine needle
 	aspirate (FNA) of a breast mass.  They describe
@@ -102,11 +102,11 @@ Results:
 	ftp ftp.cs.wisc.edu
 	cd math-prog/cpo-dataset/machine-learn/WDBC/
 
-5. Number of instances: 569 
+## 5. Number of instances: 569 
 
-6. Number of attributes: 32 (ID, diagnosis, 30 real-valued input features)
+## 6. Number of attributes: 32 (ID, diagnosis, 30 real-valued input features)
 
-7. Attribute information
+## 7. Attribute information
 
 1) ID number
 2) Diagnosis (M = malignant, B = benign)
@@ -135,6 +135,6 @@ resulting in 30 features.  For instance, field 3 is Mean Radius, field
 
 All feature values are recoded with four significant digits.
 
-8. Missing attribute values: none
+## 8. Missing attribute values: none
 
-9. Class distribution: 357 benign, 212 malignant
+## 9. Class distribution: 357 benign, 212 malignant
